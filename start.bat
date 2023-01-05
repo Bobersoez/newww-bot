@@ -1,1 +1,2 @@
-node index.js
+node Bot.js
+pause
